@@ -24,4 +24,4 @@ third map style to earthquake map.
 -Software tools and programming language: HTML/CSS, JavaScript Visual Studio Code,Leaflet 1.7.1 and D3.js 6.2.0
 
 Finally, feel free to take reference into the code by interactive Maps Webpage file located in the next link
-   #### (https://github.com/JulioAQuintana/Election_Analysis)
+   #### (https://julioaquintana.github.io/Mapping_Earthquakes/)
